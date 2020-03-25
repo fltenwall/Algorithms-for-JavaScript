@@ -1,2 +1,2 @@
-##Algorithms-for-JavaScript
+Algorithms-for-JavaScript
 
