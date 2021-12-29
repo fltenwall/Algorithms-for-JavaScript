@@ -1,0 +1,23 @@
+{
+  "name": "algorithms-for-javascript",
+  "version": "1.0.0",
+  "description": "用javacripts实现各种算法和数据结构",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fltenwall/Algorithms-for-JavaScript.git"
+  },
+  "author": "fltenwall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fltenwall/Algorithms-for-JavaScript/issues"
+  },
+  "homepage": "https://github.com/fltenwall/Algorithms-for-JavaScript#readme",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.3"
+  }
+}
